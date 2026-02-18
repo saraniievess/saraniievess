@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy [Tu Nombre Completo]
+# ¡Hola! 👋 Soy Sara Nieves
 
 ![Banner de bienvenida](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
 
 ## 🚀 Sobre Mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Web** apasionado/a por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
+Soy estudiante de **Desarrollo de Aplicaciones Web** apasionada por la tecnología y el desarrollo de software. Me encanta aprender nuevas tecnologías y trabajar en proyectos innovadores.
 
 - 🔭 Actualmente trabajando en: **Mis estudios**
 - 🌱 Aprendiendo: **Java, HTML y CSS**

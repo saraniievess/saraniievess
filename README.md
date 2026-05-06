@@ -36,6 +36,10 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** apasionada por la tecnolog�
 - 📚 **IES Camas-Antonio Brisquet**
   - Desarrollo de Aplicaciones Web
   - Año: [2025-2026]
+ 
+- 📚 **IES Tartessos**
+  - Bachillerato Tecnológico
+  - Año: [2023-2025]
 
 ---
 

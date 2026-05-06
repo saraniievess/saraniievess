@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sara Nieves
 
-![Banner de bienvenida](https://via.placeholder.com/1000x200/0d1117/58a6ff?text=Bienvenido+a+mi+Perfil+de+GitHub)
+![Header](./[github-header-banner.png])
 
 ## 🚀 Sobre Mí
 

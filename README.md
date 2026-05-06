@@ -23,7 +23,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Web** apasionada por la tecnolog√
 
 ### Frameworks y Librer√≠as
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
